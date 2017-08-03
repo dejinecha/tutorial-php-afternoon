@@ -1,2 +1,1 @@
-# tutorial-php-afternoon
-PHP Tutorial
+# PHP CMS Tutorial
